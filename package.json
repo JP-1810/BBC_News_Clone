@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s04vckm",
+  "description": "https://scrimba.com/s04vckm/s0l9j030ic/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
